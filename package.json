@@ -11,5 +11,8 @@
   "bugs": {
     "url": "https://github.com/fortytwostudio/skeletor/issues"
   },
-  "homepage": "https://github.com/fortytwostudio/skeletor#readme"
+  "homepage": "https://github.com/fortytwostudio/skeletor#readme",
+  "dependencies": {
+    "tailwindcss": "^1.0.5"
+  }
 }
