@@ -1,0 +1,15 @@
+{
+  "name": "Skeletor",
+  "version": "1.0.0",
+  "description": "Base file and config for FortyTwo Studio websites",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fortytwostudio/skeletor.git"
+  },
+  "author": "Ryan @ FortyTwo Studio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fortytwostudio/skeletor/issues"
+  },
+  "homepage": "https://github.com/fortytwostudio/skeletor#readme"
+}
